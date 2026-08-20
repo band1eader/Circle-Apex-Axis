@@ -1,0 +1,22 @@
+# Site configuration
+title: Circle Apex Axis
+description: A elegant and modern site
+url: https://band1eader.github.io/circle-apex-axis
+baseurl: /circle-apex-axis
+
+# Theme
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Markdown settings
+markdown: kramdown
+
+# Exclude files
+exclude:
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
